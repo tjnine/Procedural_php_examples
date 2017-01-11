@@ -1,0 +1,10 @@
+body {
+  min-height: 75rem; /* Can be removed; just added for demo purposes */
+  background: #111;
+  padding-bottom: 20px;
+    padding-top: 2rem;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
